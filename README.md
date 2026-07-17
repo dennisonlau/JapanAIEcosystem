@@ -6,7 +6,6 @@ An interactive map of every partner on NVIDIA's Japan ecosystem wall (July 2026)
 
 **[→ Live demo](https://dennisonlau.github.io/JapanAIEcosystem/)**
 
----
 
 ## Licence
 
